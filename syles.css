@@ -20,7 +20,7 @@ body {
 .header-img {
   display: flex;
   width: 100%;
-  max-width: 1300px;
+  max-width: 1000px;
   margin-inline: auto;
   filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.2));
 }
@@ -30,7 +30,7 @@ body {
   position: relative;
   isolation: isolate;
   width: 100%;
-  max-width: 1300px;
+  max-width: 1000px;
   margin-inline: auto;
 }
 
